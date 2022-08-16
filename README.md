@@ -45,7 +45,7 @@ To create this table, use strings of hyphens “-” with Console.WriteLine (or 
 
 *Sample output:*
 
-![image](https://user-images.githubusercontent.com/94946568/184945839-acdf88ae-6af6-4c0b-9e71-03bcf7a5bda5.png)
+![image](https://user-images.githubusercontent.com/94946568/184946511-2a2270e0-5f1c-4e3e-aa3b-49527fd8a179.png)
 
 ### Logout
 This function will log you out of your bank account and return you to the Main Screen where you can enter another account or exit the program.
