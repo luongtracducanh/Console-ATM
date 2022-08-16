@@ -43,13 +43,9 @@ To create this table, use strings of hyphens “-” with Console.WriteLine (or 
 
 ```dotnet add package ConsoleTables –version 2.4.2```
 
-*image*
+*Sample output:*
 
-*Figure 1: Adding ConsoleTables package*
-
-*image*
-
-*Figure 2: Sample output*
+![image](https://user-images.githubusercontent.com/94946568/184945839-acdf88ae-6af6-4c0b-9e71-03bcf7a5bda5.png)
 
 ### Logout
 This function will log you out of your bank account and return you to the Main Screen where you can enter another account or exit the program.
