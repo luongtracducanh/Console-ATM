@@ -45,7 +45,31 @@ To create this table, use strings of hyphens “-” with the ```Console.WriteLi
 
 *Sample output:*
 
-![image](https://user-images.githubusercontent.com/94946568/184946511-2a2270e0-5f1c-4e3e-aa3b-49527fd8a179.png)
+```
+LTDA ATM Secure Menu
+
+1. Balance Enquiry
+2. Cash Deposit
+3. Withdrawal
+4. Money Transfer
+5. Transactions
+6. Logout
+
+Enter your option: 5
+ --------------------------------------------------------------------
+ | Type       | From   | To     | Amount AUD | Transaction Date     |
+ --------------------------------------------------------------------
+ | Deposit    | 180803 | 180803 | 180        | 8/29/2022 5:17:17 PM |
+ --------------------------------------------------------------------
+ | Withdrawal | 180803 | 180803 | 340        | 8/29/2022 5:17:32 PM |
+ --------------------------------------------------------------------
+ | Transfer   | 180803 | 140203 | 500        | 8/29/2022 5:17:44 PM |
+ --------------------------------------------------------------------
+
+You have performed 3 transactions.
+Press any key to continue
+_
+```
 
 ### Logout
 This function will log you out of your bank account and return you to the Main Screen where you can enter another account or exit the program.
