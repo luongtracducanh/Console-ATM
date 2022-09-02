@@ -41,7 +41,9 @@ After executing many transactions, the user would want to view their transaction
 
 To create this table, use strings of hyphens “-” with the ```Console.WriteLine``` (or ```Console.Write```) method will be time-consuming and prone to errors. Therefore, I have used the ConsolesTable package to create properly aligned tables for easier viewing. The command for installation is as follows:
 
-```dotnet add package ConsoleTables –version 2.4.2```
+```
+dotnet add package ConsoleTables –version 2.4.2
+```
 
 *Sample output:*
 
